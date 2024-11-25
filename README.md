@@ -5,3 +5,4 @@ Week2- Understanding audio analysis techniques
 Week3- Implementing CNNs
 Week4- Understanding UNets
 Week5- Implementing Transformers and Completing the Project. 
+Presentation : https://www.canva.com/design/DAGHddiUMOo/6avkfR75LG3530iYkfGc_w/edit
